@@ -1,5 +1,9 @@
 const FILES_TO_CACHE=[
     '/',
+    '/bootstrap.css',
+    '/main.css',
+    '/bootstrap.min.js',
+    '/jquery.min.js',
     '/db.js',
     '/index.html',
     '/manifest.webmanifest',
